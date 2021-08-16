@@ -1,0 +1,21 @@
+h1 {
+  -webkit-text-stroke: 2px black;
+  font-family: impact;
+  color:#afa7a2;
+}
+
+h2 {
+  -webkit-text-stroke: 2px black;
+  font-family: impact;
+  color:#afa7a2;
+}
+
+button{
+margin: auto;
+display: block;
+}
+
+body {
+  background-image: url("https://images6.alphacoders.com/380/thumb-1920-380205.jpg");
+  background-size: auto;
+}
